@@ -13,3 +13,4 @@ class Base:
     def ajouter_drones(self,drone):
         self.drones.append(drone)
         drone.base=self
+uhuiih
